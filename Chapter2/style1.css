@@ -1,0 +1,29 @@
+.title{
+
+    color:red;
+}
+
+h2{
+
+    color:blue;
+}
+
+.list{
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+}
+
+#btn{
+
+    background-color: orange;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+
+}
+
+#btn:hover{
+
+    background-color: darkorange;
+}
