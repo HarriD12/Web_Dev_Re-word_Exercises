@@ -1,0 +1,21 @@
+.img1{
+
+    width: 200px; 
+    height: 200px; 
+    box-shadow: 100px; 
+    opacity: 50%;
+}
+
+.img2{
+    height: 200px; 
+    width: 200px; 
+    border-radius: 10px;
+}
+
+.img3{
+
+    height: 200px; 
+    height: 200px; 
+    border-radius: 50%; 
+    border: 1px,solid;
+}
